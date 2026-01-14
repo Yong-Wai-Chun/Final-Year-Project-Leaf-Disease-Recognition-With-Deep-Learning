@@ -23,6 +23,8 @@ When it comes to accuracy, speed, and resource usage. The proposed method has th
 
 The journal paper has been published to the International Journal of Computing and Digital Systems, DOI: http://dx.doi.org/10.12785/ijcds/1601125
 
+https://hdl.handle.net/20.500.14536/5494
+
 ## Steps for Running & Testing
 
 1. Download the dataset from the Kaggle link
