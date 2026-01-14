@@ -21,9 +21,11 @@ This project is about proposing a hybrid model of customized Convolution Neural 
 </p>
 When it comes to accuracy, speed, and resource usage. The proposed method has the most balanced and optimized results compared among the other methods. For more details, kindly read the poster and the research paper as attached.
 
-The journal paper has been published to the International Journal of Computing and Digital Systems, DOI: http://dx.doi.org/10.12785/ijcds/1601125
+The journal paper has been published to the International Journal of Computing and Digital Systems, 
 
-https://hdl.handle.net/20.500.14536/5494
+DOI: http://dx.doi.org/10.12785/ijcds/1601125
+
+URI: https://hdl.handle.net/20.500.14536/5494
 
 ## Steps for Running & Testing
 
